@@ -3,14 +3,16 @@ query problemsetQuestionList($categorySlug: String, $limit: Int, $skip: Int, $fi
         total: totalNum
         questions: data {
             questionId
-            questionFrontendId
-            title
             titleSlug
-            isPaidOnly
-            difficulty
-            likes
-            dislikes
-            stats
+            boundTopicId
+            content
+            categoryTitle
+            topicTags {
+                name
+                slug
+                translatedName
+            }
+            companyTagStats
         }
     }
 }

@@ -6,14 +6,10 @@ query questionData($titleSlug: String!) {
         title
         titleSlug
         content
-        translatedTitle
-        translatedContent
         isPaidOnly
         difficulty
         likes
         dislikes
-        isLiked
-        similarQuestions
         categoryTitle
         topicTags {
             name

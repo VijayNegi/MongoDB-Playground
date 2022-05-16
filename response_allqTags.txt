@@ -1,0 +1,3542 @@
+{
+    "data": {
+        "questionTopicTags": {
+            "edges": [
+                {
+                    "node": {
+                        "name": "Array",
+                        "translatedName": null,
+                        "slug": "array",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Hash Table",
+                        "translatedName": null,
+                        "slug": "hash-table",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Linked List",
+                        "translatedName": null,
+                        "slug": "linked-list",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Math",
+                        "translatedName": null,
+                        "slug": "math",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Two Pointers",
+                        "translatedName": null,
+                        "slug": "two-pointers",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "String",
+                        "translatedName": null,
+                        "slug": "string",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Binary Search",
+                        "translatedName": null,
+                        "slug": "binary-search",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Divide and Conquer",
+                        "translatedName": null,
+                        "slug": "divide-and-conquer",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Dynamic Programming",
+                        "translatedName": null,
+                        "slug": "dynamic-programming",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Backtracking",
+                        "translatedName": null,
+                        "slug": "backtracking",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Stack",
+                        "translatedName": null,
+                        "slug": "stack",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Greedy",
+                        "translatedName": null,
+                        "slug": "greedy",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Sort",
+                        "translatedName": null,
+                        "slug": "sort",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Bit Manipulation",
+                        "translatedName": null,
+                        "slug": "bit-manipulation",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Tree",
+                        "translatedName": null,
+                        "slug": "tree",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Depth-First Search",
+                        "translatedName": null,
+                        "slug": "depth-first-search",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Breadth-First Search",
+                        "translatedName": null,
+                        "slug": "breadth-first-search",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Union Find",
+                        "translatedName": null,
+                        "slug": "union-find",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Graph",
+                        "translatedName": null,
+                        "slug": "graph",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Design",
+                        "translatedName": null,
+                        "slug": "design",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Topological Sort",
+                        "translatedName": null,
+                        "slug": "topological-sort",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Trie",
+                        "translatedName": null,
+                        "slug": "trie",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Binary Indexed Tree",
+                        "translatedName": null,
+                        "slug": "binary-indexed-tree",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Segment Tree",
+                        "translatedName": null,
+                        "slug": "segment-tree",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Binary Search Tree",
+                        "translatedName": null,
+                        "slug": "binary-search-tree",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Recursion",
+                        "translatedName": null,
+                        "slug": "recursion",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Brainteaser",
+                        "translatedName": null,
+                        "slug": "brainteaser",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Memoization",
+                        "translatedName": null,
+                        "slug": "memoization",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Queue",
+                        "translatedName": null,
+                        "slug": "queue",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Reservoir Sampling",
+                        "translatedName": null,
+                        "slug": "reservoir-sampling",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Ordered Map",
+                        "translatedName": null,
+                        "slug": "ordered-map",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Geometry",
+                        "translatedName": null,
+                        "slug": "geometry",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Rejection Sampling",
+                        "translatedName": null,
+                        "slug": "rejection-sampling",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Sliding Window",
+                        "translatedName": null,
+                        "slug": "sliding-window",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Line Sweep",
+                        "translatedName": null,
+                        "slug": "line-sweep",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Rolling Hash",
+                        "translatedName": null,
+                        "slug": "rolling-hash",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Suffix Array",
+                        "translatedName": null,
+                        "slug": "suffix-array",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Database",
+                        "translatedName": null,
+                        "slug": "database",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Shell",
+                        "translatedName": null,
+                        "slug": "shell",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Concurrency",
+                        "translatedName": null,
+                        "slug": "concurrency",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Sorting",
+                        "translatedName": null,
+                        "slug": "sorting",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Heap (Priority Queue)",
+                        "translatedName": null,
+                        "slug": "heap-priority-queue",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Merge Sort",
+                        "translatedName": null,
+                        "slug": "merge-sort",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "String Matching",
+                        "translatedName": null,
+                        "slug": "string-matching",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Matrix",
+                        "translatedName": null,
+                        "slug": "matrix",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Monotonic Stack",
+                        "translatedName": null,
+                        "slug": "monotonic-stack",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Simulation",
+                        "translatedName": null,
+                        "slug": "simulation",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Combinatorics",
+                        "translatedName": null,
+                        "slug": "combinatorics",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Binary Tree",
+                        "translatedName": null,
+                        "slug": "binary-tree",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Doubly-Linked List",
+                        "translatedName": null,
+                        "slug": "doubly-linked-list",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Interactive",
+                        "translatedName": null,
+                        "slug": "interactive",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Bucket Sort",
+                        "translatedName": null,
+                        "slug": "bucket-sort",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Radix Sort",
+                        "translatedName": null,
+                        "slug": "radix-sort",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Counting",
+                        "translatedName": null,
+                        "slug": "counting",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Data Stream",
+                        "translatedName": null,
+                        "slug": "data-stream",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Iterator",
+                        "translatedName": null,
+                        "slug": "iterator",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Hash Function",
+                        "translatedName": null,
+                        "slug": "hash-function",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Enumeration",
+                        "translatedName": null,
+                        "slug": "enumeration",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Number Theory",
+                        "translatedName": null,
+                        "slug": "number-theory",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Prefix Sum",
+                        "translatedName": null,
+                        "slug": "prefix-sum",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Quickselect",
+                        "translatedName": null,
+                        "slug": "quickselect",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Ordered Set",
+                        "translatedName": null,
+                        "slug": "ordered-set",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Monotonic Queue",
+                        "translatedName": null,
+                        "slug": "monotonic-queue",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Counting Sort",
+                        "translatedName": null,
+                        "slug": "counting-sort",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Game Theory",
+                        "translatedName": null,
+                        "slug": "game-theory",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Eulerian Circuit",
+                        "translatedName": null,
+                        "slug": "eulerian-circuit",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Randomized",
+                        "translatedName": null,
+                        "slug": "randomized",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Shortest Path",
+                        "translatedName": null,
+                        "slug": "shortest-path",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Bitmask",
+                        "translatedName": null,
+                        "slug": "bitmask",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Probability and Statistics",
+                        "translatedName": null,
+                        "slug": "probability-and-statistics",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Minimum Spanning Tree",
+                        "translatedName": null,
+                        "slug": "minimum-spanning-tree",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Biconnected Component",
+                        "translatedName": null,
+                        "slug": "biconnected-component",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Strongly Connected Component",
+                        "translatedName": null,
+                        "slug": "strongly-connected-component",
+                        "__typename": "TopicTagNode"
+                    },
+                    "__typename": "TopicTagEdge"
+                }
+            ],
+            "__typename": "TopicTagConnection"
+        },
+        "questionCompanyTags": {
+            "edges": [
+                {
+                    "node": {
+                        "name": "Google",
+                        "translatedName": null,
+                        "slug": "google",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Goldman Sachs",
+                        "translatedName": null,
+                        "slug": "goldman-sachs",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Microsoft",
+                        "translatedName": null,
+                        "slug": "microsoft",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "LinkedIn",
+                        "translatedName": null,
+                        "slug": "linkedin",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Amazon",
+                        "translatedName": null,
+                        "slug": "amazon",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Facebook",
+                        "translatedName": null,
+                        "slug": "facebook",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Adobe",
+                        "translatedName": null,
+                        "slug": "adobe",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Bloomberg",
+                        "translatedName": null,
+                        "slug": "bloomberg",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Morgan Stanley",
+                        "translatedName": null,
+                        "slug": "morgan-stanley",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "SAP",
+                        "translatedName": null,
+                        "slug": "sap",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Samsung",
+                        "translatedName": null,
+                        "slug": "samsung",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Yahoo",
+                        "translatedName": null,
+                        "slug": "yahoo",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Uber",
+                        "translatedName": null,
+                        "slug": "uber",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Airbnb",
+                        "translatedName": null,
+                        "slug": "airbnb",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Apple",
+                        "translatedName": null,
+                        "slug": "apple",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "eBay",
+                        "translatedName": null,
+                        "slug": "ebay",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Yandex",
+                        "translatedName": null,
+                        "slug": "yandex",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Cisco",
+                        "translatedName": null,
+                        "slug": "cisco",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "IBM",
+                        "translatedName": null,
+                        "slug": "ibm",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Intuit",
+                        "translatedName": null,
+                        "slug": "intuit",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Nagarro",
+                        "translatedName": null,
+                        "slug": "nagarro",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Spotify",
+                        "translatedName": null,
+                        "slug": "spotify",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Citrix",
+                        "translatedName": null,
+                        "slug": "citrix",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Wayfair",
+                        "translatedName": null,
+                        "slug": "wayfair",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Oracle",
+                        "translatedName": null,
+                        "slug": "oracle",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Zoho",
+                        "translatedName": null,
+                        "slug": "zoho",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Nvidia",
+                        "translatedName": null,
+                        "slug": "nvidia",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Yelp",
+                        "translatedName": null,
+                        "slug": "yelp",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Expedia",
+                        "translatedName": null,
+                        "slug": "expedia",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "ServiceNow",
+                        "translatedName": null,
+                        "slug": "servicenow",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Twitter",
+                        "translatedName": null,
+                        "slug": "twitter",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Paypal",
+                        "translatedName": null,
+                        "slug": "paypal",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Zillow",
+                        "translatedName": null,
+                        "slug": "zillow",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "JPMorgan",
+                        "translatedName": null,
+                        "slug": "jpmorgan",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Square",
+                        "translatedName": null,
+                        "slug": "square",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Snapchat",
+                        "translatedName": null,
+                        "slug": "snapchat",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "GoDaddy",
+                        "translatedName": null,
+                        "slug": "godaddy",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Dropbox",
+                        "translatedName": null,
+                        "slug": "dropbox",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Walmart Global Tech",
+                        "translatedName": null,
+                        "slug": "walmart-labs",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Citadel",
+                        "translatedName": null,
+                        "slug": "citadel",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "VMware",
+                        "translatedName": null,
+                        "slug": "vmware",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Visa",
+                        "translatedName": null,
+                        "slug": "visa",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Intel",
+                        "translatedName": null,
+                        "slug": "intel",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Groupon",
+                        "translatedName": null,
+                        "slug": "groupon",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Salesforce",
+                        "translatedName": null,
+                        "slug": "salesforce",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Deutsche Bank",
+                        "translatedName": null,
+                        "slug": "deutsche-bank",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Capital One",
+                        "translatedName": null,
+                        "slug": "capital-one",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Qualcomm",
+                        "translatedName": null,
+                        "slug": "qualcomm",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "FactSet",
+                        "translatedName": null,
+                        "slug": "factset",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Dell",
+                        "translatedName": null,
+                        "slug": "dell",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "ByteDance",
+                        "translatedName": null,
+                        "slug": "bytedance",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Splunk",
+                        "translatedName": null,
+                        "slug": "splunk",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "HBO",
+                        "translatedName": null,
+                        "slug": "hbo",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Infosys",
+                        "translatedName": null,
+                        "slug": "infosys",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "PayTM",
+                        "translatedName": null,
+                        "slug": "paytm",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Poshmark",
+                        "translatedName": null,
+                        "slug": "poshmark",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "ZScaler",
+                        "translatedName": null,
+                        "slug": "zscaler",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Accolite",
+                        "translatedName": null,
+                        "slug": "accolite",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "American Express",
+                        "translatedName": null,
+                        "slug": "american-express",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "tcs",
+                        "translatedName": null,
+                        "slug": "tcs",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Zoom",
+                        "translatedName": null,
+                        "slug": "zoom",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "United Health Group",
+                        "translatedName": null,
+                        "slug": "united-health-group",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Shopee",
+                        "translatedName": null,
+                        "slug": "shopee",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Optum",
+                        "translatedName": null,
+                        "slug": "optum",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Epam Systems",
+                        "translatedName": null,
+                        "slug": "epam-systems",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Siemens",
+                        "translatedName": null,
+                        "slug": "siemens",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Athenahealth",
+                        "translatedName": null,
+                        "slug": "athenahealth",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Accenture",
+                        "translatedName": null,
+                        "slug": "accenture",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Zomato",
+                        "translatedName": null,
+                        "slug": "zomato",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Cognizant",
+                        "translatedName": null,
+                        "slug": "cognizant",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Huawei",
+                        "translatedName": null,
+                        "slug": "huawei",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Docusign",
+                        "translatedName": null,
+                        "slug": "docusign",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Coupang",
+                        "translatedName": null,
+                        "slug": "coupang",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "DoorDash",
+                        "translatedName": null,
+                        "slug": "doordash",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Tesla",
+                        "translatedName": null,
+                        "slug": "tesla",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Wix",
+                        "translatedName": null,
+                        "slug": "wix",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Alation",
+                        "translatedName": null,
+                        "slug": "alation",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Lyft",
+                        "translatedName": null,
+                        "slug": "lyft",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Atlassian",
+                        "translatedName": null,
+                        "slug": "atlassian",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "tiktok",
+                        "translatedName": null,
+                        "slug": "tiktok",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Rubrik",
+                        "translatedName": null,
+                        "slug": "rubrik",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Zenefits",
+                        "translatedName": null,
+                        "slug": "zenefits",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Tencent",
+                        "translatedName": null,
+                        "slug": "tencent",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Flipkart",
+                        "translatedName": null,
+                        "slug": "flipkart",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Wish",
+                        "translatedName": null,
+                        "slug": "wish",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Cruise Automation",
+                        "translatedName": null,
+                        "slug": "cruise-automation",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Qualtrics",
+                        "translatedName": null,
+                        "slug": "qualtrics",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Nutanix",
+                        "translatedName": null,
+                        "slug": "nutanix",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "MakeMyTrip",
+                        "translatedName": null,
+                        "slug": "makemytrip",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Commvault",
+                        "translatedName": null,
+                        "slug": "commvault",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Redfin",
+                        "translatedName": null,
+                        "slug": "redfin",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Coursera",
+                        "translatedName": null,
+                        "slug": "coursera",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "C3 IoT",
+                        "translatedName": null,
+                        "slug": "c3-iot",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Swiggy",
+                        "translatedName": null,
+                        "slug": "swiggy",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Arcesium",
+                        "translatedName": null,
+                        "slug": "arcesium",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "BlackRock",
+                        "translatedName": null,
+                        "slug": "blackrock",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Roblox",
+                        "translatedName": null,
+                        "slug": "roblox",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "DE Shaw",
+                        "translatedName": null,
+                        "slug": "de-shaw",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Quora",
+                        "translatedName": null,
+                        "slug": "quora",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "persistent systems",
+                        "translatedName": null,
+                        "slug": "persistent-systems",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Works Applications",
+                        "translatedName": null,
+                        "slug": "works-applications",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Databricks",
+                        "translatedName": null,
+                        "slug": "databricks",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Epic Systems",
+                        "translatedName": null,
+                        "slug": "epic-systems",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Twilio",
+                        "translatedName": null,
+                        "slug": "twilio",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Duolingo",
+                        "translatedName": null,
+                        "slug": "duolingo",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Bolt",
+                        "translatedName": null,
+                        "slug": "bolt",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Blizzard",
+                        "translatedName": null,
+                        "slug": "blizzard",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Barclays",
+                        "translatedName": null,
+                        "slug": "barclays",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Mathworks",
+                        "translatedName": null,
+                        "slug": "mathworks",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Zynga",
+                        "translatedName": null,
+                        "slug": "zynga",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Booking.com",
+                        "translatedName": null,
+                        "slug": "bookingcom",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Netflix",
+                        "translatedName": null,
+                        "slug": "netflix",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Dataminr",
+                        "translatedName": null,
+                        "slug": "dataminr",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Twitch",
+                        "translatedName": null,
+                        "slug": "twitch",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Arista Networks",
+                        "translatedName": null,
+                        "slug": "arista-networks",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Indeed",
+                        "translatedName": null,
+                        "slug": "indeed",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "razorpay",
+                        "translatedName": null,
+                        "slug": "razorpay",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "IXL",
+                        "translatedName": null,
+                        "slug": "ixl",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Cohesity",
+                        "translatedName": null,
+                        "slug": "cohesity",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Pinterest",
+                        "translatedName": null,
+                        "slug": "pinterest",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Palantir Technologies",
+                        "translatedName": null,
+                        "slug": "palantir-technologies",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Sprinklr",
+                        "translatedName": null,
+                        "slug": "sprinklr",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "TuSimple",
+                        "translatedName": null,
+                        "slug": "tusimple",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "MindTree",
+                        "translatedName": null,
+                        "slug": "mindtree",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Pocket Gems",
+                        "translatedName": null,
+                        "slug": "pocket-gems",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Riot Games",
+                        "translatedName": null,
+                        "slug": "riot-games",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Grab",
+                        "translatedName": null,
+                        "slug": "grab",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "payu",
+                        "translatedName": null,
+                        "slug": "payu",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "instacart",
+                        "translatedName": null,
+                        "slug": "instacart",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Lending Club",
+                        "translatedName": null,
+                        "slug": "lending-club",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Karat",
+                        "translatedName": null,
+                        "slug": "karat",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Reddit",
+                        "translatedName": null,
+                        "slug": "reddit",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Toptal",
+                        "translatedName": null,
+                        "slug": "toptal",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "DRW",
+                        "translatedName": null,
+                        "slug": "drw",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Snapdeal",
+                        "translatedName": null,
+                        "slug": "snapdeal",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "National Instruments",
+                        "translatedName": null,
+                        "slug": "national-instruments",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Sapient",
+                        "translatedName": null,
+                        "slug": "sapient",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Two Sigma",
+                        "translatedName": null,
+                        "slug": "two-sigma",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Akuna Capital",
+                        "translatedName": null,
+                        "slug": "akuna-capital",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Garena",
+                        "translatedName": null,
+                        "slug": "garena",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Robinhood",
+                        "translatedName": null,
+                        "slug": "robinhood",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Affirm",
+                        "translatedName": null,
+                        "slug": "affirm",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Asana",
+                        "translatedName": null,
+                        "slug": "asana",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "LiveRamp",
+                        "translatedName": null,
+                        "slug": "liveramp",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Houzz",
+                        "translatedName": null,
+                        "slug": "houzz",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Hotstar",
+                        "translatedName": null,
+                        "slug": "hotstar",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Tableau",
+                        "translatedName": null,
+                        "slug": "tableau",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Box",
+                        "translatedName": null,
+                        "slug": "box",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "PhonePe",
+                        "translatedName": null,
+                        "slug": "phonepe",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Myntra",
+                        "translatedName": null,
+                        "slug": "myntra",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Juspay",
+                        "translatedName": null,
+                        "slug": "juspay",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "MAQ Software",
+                        "translatedName": null,
+                        "slug": "maq-software",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Dunzo",
+                        "translatedName": null,
+                        "slug": "dunzo",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "DiDi",
+                        "translatedName": null,
+                        "slug": "didi",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Audible",
+                        "translatedName": null,
+                        "slug": "audible",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Zopsmart",
+                        "translatedName": null,
+                        "slug": "zopsmart",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Baidu",
+                        "translatedName": null,
+                        "slug": "baidu",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Hulu",
+                        "translatedName": null,
+                        "slug": "hulu",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Sumologic",
+                        "translatedName": null,
+                        "slug": "sumologic",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Electronic Arts",
+                        "translatedName": null,
+                        "slug": "electronic-arts",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Airtel",
+                        "translatedName": null,
+                        "slug": "airtel",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "HRT",
+                        "translatedName": null,
+                        "slug": "hrt",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Pony.ai",
+                        "translatedName": null,
+                        "slug": "ponyai",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "MindTickle",
+                        "translatedName": null,
+                        "slug": "mindtickle",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Opendoor",
+                        "translatedName": null,
+                        "slug": "opendoor",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "AppDynamics",
+                        "translatedName": null,
+                        "slug": "appdynamics",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Postmates",
+                        "translatedName": null,
+                        "slug": "postmates",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Jane Street",
+                        "translatedName": null,
+                        "slug": "jane-street",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Codenation",
+                        "translatedName": null,
+                        "slug": "codenation",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Media.net",
+                        "translatedName": null,
+                        "slug": "medianet",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Directi",
+                        "translatedName": null,
+                        "slug": "directi",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Cashfree",
+                        "translatedName": null,
+                        "slug": "cashfree",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Vimeo",
+                        "translatedName": null,
+                        "slug": "vimeo",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Alibaba",
+                        "translatedName": null,
+                        "slug": "alibaba",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Jump Trading",
+                        "translatedName": null,
+                        "slug": "jump-trading",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Aetion",
+                        "translatedName": null,
+                        "slug": "aetion",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Cloudera",
+                        "translatedName": null,
+                        "slug": "cloudera",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "InMobi",
+                        "translatedName": null,
+                        "slug": "inmobi",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Rackspace",
+                        "translatedName": null,
+                        "slug": "rackspace",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "HeavyWater",
+                        "translatedName": null,
+                        "slug": "heavywater",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Fallible",
+                        "translatedName": null,
+                        "slug": "fallible",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Zappos",
+                        "translatedName": null,
+                        "slug": "zappos",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Pure Storage",
+                        "translatedName": null,
+                        "slug": "pure-storage",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Gilt Groupe",
+                        "translatedName": null,
+                        "slug": "gilt-groupe",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Valve",
+                        "translatedName": null,
+                        "slug": "valve",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Poynt",
+                        "translatedName": null,
+                        "slug": "poynt",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "NetEase",
+                        "translatedName": null,
+                        "slug": "netease",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Helix",
+                        "translatedName": null,
+                        "slug": "helix",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "GE Digital",
+                        "translatedName": null,
+                        "slug": "ge-digital",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "TripleByte",
+                        "translatedName": null,
+                        "slug": "triplebyte",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Activision",
+                        "translatedName": null,
+                        "slug": "activision",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Yatra",
+                        "translatedName": null,
+                        "slug": "yatra",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Machine Zone",
+                        "translatedName": null,
+                        "slug": "machine-zone",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Radius",
+                        "translatedName": null,
+                        "slug": "radius",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Drawbridge",
+                        "translatedName": null,
+                        "slug": "drawbridge",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Quip (Salesforce)",
+                        "translatedName": null,
+                        "slug": "quip",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Jingchi",
+                        "translatedName": null,
+                        "slug": "jingchi",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Honeywell",
+                        "translatedName": null,
+                        "slug": "honeywell",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "ForUsAll",
+                        "translatedName": null,
+                        "slug": "forusall",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "IIT Bombay",
+                        "translatedName": null,
+                        "slug": "iit-bombay",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Fleetx",
+                        "translatedName": null,
+                        "slug": "fleetx",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Leap Motion",
+                        "translatedName": null,
+                        "slug": "leap-motion",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Fidessa",
+                        "translatedName": null,
+                        "slug": "fidessa",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "TandemG",
+                        "translatedName": null,
+                        "slug": "tandemg",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "McKinsey",
+                        "translatedName": null,
+                        "slug": "mckinsey",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Akamai",
+                        "translatedName": null,
+                        "slug": "akamai",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Thumbtack",
+                        "translatedName": null,
+                        "slug": "thumbtack",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "LimeBike",
+                        "translatedName": null,
+                        "slug": "limebike",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Flexport",
+                        "translatedName": null,
+                        "slug": "flexport",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Zalando",
+                        "translatedName": null,
+                        "slug": "zalando",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Akuna",
+                        "translatedName": null,
+                        "slug": "akuna",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Arista",
+                        "translatedName": null,
+                        "slug": "arista",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "TripAdvisor",
+                        "translatedName": null,
+                        "slug": "tripadvisor",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Druva",
+                        "translatedName": null,
+                        "slug": "druva",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Booking",
+                        "translatedName": null,
+                        "slug": "booking",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "UiPath",
+                        "translatedName": null,
+                        "slug": "uipath",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Lucid",
+                        "translatedName": null,
+                        "slug": "lucid",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Virtu Financial",
+                        "translatedName": null,
+                        "slug": "virtu",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Clutter",
+                        "translatedName": null,
+                        "slug": "clutter",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Wayve",
+                        "translatedName": null,
+                        "slug": "wayve",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Hudson River Trading",
+                        "translatedName": null,
+                        "slug": "hudson-river-trading",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Pramp",
+                        "translatedName": null,
+                        "slug": "pramp",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Affinity",
+                        "translatedName": null,
+                        "slug": "affinity",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Bloomreach",
+                        "translatedName": null,
+                        "slug": "bloomreach",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "F5 Networks",
+                        "translatedName": null,
+                        "slug": "f5-networks",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Trexquant",
+                        "translatedName": null,
+                        "slug": "trexquant",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "ByteDance(Toutiao)",
+                        "translatedName": null,
+                        "slug": "bytedancetoutiao",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "DJI",
+                        "translatedName": null,
+                        "slug": "dji",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "IMC",
+                        "translatedName": null,
+                        "slug": "imc",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Traveloka",
+                        "translatedName": null,
+                        "slug": "traveloka",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Kakao",
+                        "translatedName": null,
+                        "slug": "kakao",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Rakuten",
+                        "translatedName": null,
+                        "slug": "rakuten",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "C3.ai",
+                        "translatedName": null,
+                        "slug": "c3ai",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "NextJump",
+                        "translatedName": null,
+                        "slug": "nextjump",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Walmart",
+                        "translatedName": null,
+                        "slug": "walmart",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Honey",
+                        "translatedName": null,
+                        "slug": "honey",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Microstrategy",
+                        "translatedName": null,
+                        "slug": "microstrategy",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "JP Morgan Chase",
+                        "translatedName": null,
+                        "slug": "jp-morgan-chase",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Value Labs",
+                        "translatedName": null,
+                        "slug": "value-labs",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Delivery Hero",
+                        "translatedName": null,
+                        "slug": "deliveryhero",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Turbot",
+                        "translatedName": null,
+                        "slug": "turbot",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "23&me",
+                        "translatedName": null,
+                        "slug": "23me",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Turvo",
+                        "translatedName": null,
+                        "slug": "turvo",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Mapbox",
+                        "translatedName": null,
+                        "slug": "mapbox",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Sumerge",
+                        "translatedName": null,
+                        "slug": "sumerge",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "SoundHound",
+                        "translatedName": null,
+                        "slug": "soundhound",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "endurance",
+                        "translatedName": null,
+                        "slug": "endurance",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Mercari",
+                        "translatedName": null,
+                        "slug": "mercari",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "OT",
+                        "translatedName": null,
+                        "slug": "ot",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Sony",
+                        "translatedName": null,
+                        "slug": "sony",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Postman",
+                        "translatedName": null,
+                        "slug": "postman",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Hackerrank",
+                        "translatedName": null,
+                        "slug": "hackerrank",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "JP Morgan",
+                        "translatedName": null,
+                        "slug": "jp-morgan",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Dream11",
+                        "translatedName": null,
+                        "slug": "dream11",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Nuro",
+                        "translatedName": null,
+                        "slug": "nuro",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "BNY Mellon",
+                        "translatedName": null,
+                        "slug": "bny-mellon",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Netsuite",
+                        "translatedName": null,
+                        "slug": "netsuite",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Dosh",
+                        "translatedName": null,
+                        "slug": "dosh",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Oasis Labs",
+                        "translatedName": null,
+                        "slug": "oasis-labs",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Quble",
+                        "translatedName": null,
+                        "slug": "quble",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Activevideo",
+                        "translatedName": null,
+                        "slug": "activevideo",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "CasaOne",
+                        "translatedName": null,
+                        "slug": "casaone",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Ajira",
+                        "translatedName": null,
+                        "slug": "ajira",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Rupeek",
+                        "translatedName": null,
+                        "slug": "rupeek",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Brillio",
+                        "translatedName": null,
+                        "slug": "brillio",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "TSYS",
+                        "translatedName": null,
+                        "slug": "tsys",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Unacademy",
+                        "translatedName": null,
+                        "slug": "unacademy",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "peak6",
+                        "translatedName": null,
+                        "slug": "peak6",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "CodeSignal",
+                        "translatedName": null,
+                        "slug": "codesignal",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Nira Finance",
+                        "translatedName": null,
+                        "slug": "nira-finance",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Sambanova",
+                        "translatedName": null,
+                        "slug": "sambanova",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Lendingkart",
+                        "translatedName": null,
+                        "slug": "lendingkart",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "APT Portfolio",
+                        "translatedName": null,
+                        "slug": "apt-portfolio",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "CureFit",
+                        "translatedName": null,
+                        "slug": "curefit",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Huwaei",
+                        "translatedName": null,
+                        "slug": "huwaei",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "AQR Capital Management LLC",
+                        "translatedName": null,
+                        "slug": "aqr-capital-management-llc",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "edabit",
+                        "translatedName": null,
+                        "slug": "edabit",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "AllinCall",
+                        "translatedName": null,
+                        "slug": "allincall",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "general electric",
+                        "translatedName": null,
+                        "slug": "general-electric",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Softwire",
+                        "translatedName": null,
+                        "slug": "softwire",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "codeagon",
+                        "translatedName": null,
+                        "slug": "codeagon",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Mobisy",
+                        "translatedName": null,
+                        "slug": "mobisy",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Thomson Reuters",
+                        "translatedName": null,
+                        "slug": "thomson-reuters",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Société Générale",
+                        "translatedName": null,
+                        "slug": "societe-generale",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Quince",
+                        "translatedName": null,
+                        "slug": "quince",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Moengage",
+                        "translatedName": null,
+                        "slug": "moengage",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "alphonso",
+                        "translatedName": null,
+                        "slug": "alphonso",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Xing",
+                        "translatedName": null,
+                        "slug": "xing",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "GE Healthcare",
+                        "translatedName": null,
+                        "slug": "ge-healthcare",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Code Studio",
+                        "translatedName": null,
+                        "slug": "code-studio",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Lowe",
+                        "translatedName": null,
+                        "slug": "lowe",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "TIAA",
+                        "translatedName": null,
+                        "slug": "tiaa",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Ascend",
+                        "translatedName": null,
+                        "slug": "ascend",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "T System",
+                        "translatedName": null,
+                        "slug": "t-system",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Jeavio",
+                        "translatedName": null,
+                        "slug": "jeavio",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Info Edge",
+                        "translatedName": null,
+                        "slug": "info-edge",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "BitGo",
+                        "translatedName": null,
+                        "slug": "bitgo",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Avalara",
+                        "translatedName": null,
+                        "slug": "avalara",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "MishiPay",
+                        "translatedName": null,
+                        "slug": "mishipay",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "RetailMeNot",
+                        "translatedName": null,
+                        "slug": "retailmenot",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Canonical",
+                        "translatedName": null,
+                        "slug": "canonical",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "zeta suite",
+                        "translatedName": null,
+                        "slug": "zeta-suite",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "FPT",
+                        "translatedName": null,
+                        "slug": "fpt",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "T-mobile",
+                        "translatedName": null,
+                        "slug": "t-mobiles",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Wealthfront",
+                        "translatedName": null,
+                        "slug": "wealthfront",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Clari",
+                        "translatedName": null,
+                        "slug": "clari",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Pickrr",
+                        "translatedName": null,
+                        "slug": "pickrr",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Tiger Analytics",
+                        "translatedName": null,
+                        "slug": "tiger-analytics",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "GSN Games",
+                        "translatedName": null,
+                        "slug": "gsn-games",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Point72",
+                        "translatedName": null,
+                        "slug": "point72",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "MachineZone",
+                        "translatedName": null,
+                        "slug": "machinezone",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Startup",
+                        "translatedName": null,
+                        "slug": "startup",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Whole Foods Market",
+                        "translatedName": null,
+                        "slug": "whole-foods-market",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "NerdWallet",
+                        "translatedName": null,
+                        "slug": "nerdwallet",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "CoderByte",
+                        "translatedName": null,
+                        "slug": "coderbyte",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "instagram",
+                        "translatedName": null,
+                        "slug": "instagram",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Strava",
+                        "translatedName": null,
+                        "slug": "strava",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "warnermedia",
+                        "translatedName": null,
+                        "slug": "warnermedia",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                },
+                {
+                    "node": {
+                        "name": "Analytics quotient",
+                        "translatedName": null,
+                        "slug": "analytics-quotient",
+                        "__typename": "CompanyTagNode"
+                    },
+                    "__typename": "CompanyTagEdge"
+                }
+            ],
+            "__typename": "CompanyTagConnection"
+        }
+    }
+}

@@ -4,13 +4,23 @@ query problemsetQuestionList($categorySlug: String, $limit: Int, $skip: Int, $fi
         questions: data {
             questionId
             questionFrontendId
+            boundTopicId
             title
             titleSlug
+            content
             isPaidOnly
             difficulty
             likes
             dislikes
+            categoryTitle
+            topicTags {
+                name
+                slug
+                translatedName
+            }    
+            companyTagStats
             stats
+            status
         }
     }
 }
